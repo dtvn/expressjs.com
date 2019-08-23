@@ -2,6 +2,7 @@
 layout: 4x-api
 title: Express 4.x - Tài liệu tham khảo API
 lang: vi
+redirect_from: "/api.html"
 ---
 <div id="api-doc" markdown="1">
 
